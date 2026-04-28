@@ -16,11 +16,12 @@ This is a simple web application built using Streamlit and OpenCV that allows us
 * OpenCV
 
 ## Project Structure
-
+~~~
 project-folder/
 │── app.py
 │── SRH-logo.jpg
 │── README.md
+~~~
 
 ## Usage
 
